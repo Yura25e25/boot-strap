@@ -1,0 +1,480 @@
+header{
+    background-color: #87509c;
+    padding-bottom: 120px;
+}
+
+.logo{
+    padding-top: 60px;
+}
+
+@media (min-width: 320px) {
+    .logo {
+        text-align: center;
+    }
+}
+
+@media (min-width: 320px) {
+    .memu-one {
+        padding-right: 50px;
+    }
+}
+
+.Home{
+    text-decoration: none;
+    text-align: center;
+    font-size: 18px;
+    border: 0;
+}
+
+.memu-one{
+    float: right;
+    font-family: Titillium Web;
+}
+
+.memu{
+    padding-top: 60px;
+}
+
+.Hi-there{
+    padding-top: 50px;
+    color: #fff;
+    font-size: 42px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Titillium Web;
+    font-weight: bold;
+}
+
+.WORK-WITH-US-INFO{
+    padding-top: 60px;
+}
+
+.WORK-WITH-US{
+    background: #eb7d4b;
+    color: #fff;
+    border-radius: 3px;
+    display: block;
+    width: 290px;
+    padding: 20px 0;
+    margin: 0 auto ;
+    text-decoration: none;
+    text-align: center;
+    font-family: Titillium Web;
+    font-size: 18px;
+    margin-top: 65px;
+    box-shadow: 0 5px 0px #c86a40;
+    border: 0;
+}
+
+#SERVICES{
+    background-color: #17c2a4;
+    padding-bottom: 130px;
+}
+
+.ERVICES-WE{
+    padding-top: 120px;
+    padding-bottom: 20px; 
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    font-family: Titillium Web;
+    font-weight: bold;
+}
+
+.interception{
+    width: 90px;
+    height: 5px;
+    background-color: #14a58c;
+}
+
+.We-are{
+    padding-top: 25px;
+    padding-bottom: 85px; 
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+    font-family: Titillium Web;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+    font-size: 24px;
+    font-family: Titillium Web;
+    font-weight: bold;
+}
+
+h2{
+    text-align: center;
+    color: #fff;
+    font-size: 16px;
+    font-family: Titillium Web;
+    font-weight: lighter;
+}
+
+#MEET{
+    background-color: #e7f1f8;
+    padding-bottom: 120px;
+}
+
+.MEET{
+    padding-top: 120px;
+    text-align: center;
+    color: #3c4761;
+    font-size: 42px;
+    font-family: Titillium Web;
+    font-weight: bold;
+}
+
+.interception-1{
+    width: 90px;
+    height: 5px;
+    background-color: #c8d9e5;
+}
+
+.WE-ARE-A{
+    padding-top: 30px;
+    text-align: center;
+    color: #3c4761;
+    font-size: 18px;
+    font-family: Titillium Web;
+}
+
+.container-images{
+    width: 90%;
+    margin: 0 auto;
+}
+
+h3{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 24px;
+    font-family: Titillium Web;
+    margin-bottom: 10px;
+}
+
+.position{
+    padding-top: 10px;
+    text-align: center;
+    color: #30bae7;
+    font-family: Titillium Web;
+    font-size: 16px;
+}
+
+.position-text{
+    padding-top: 10px;
+    text-align: center;
+    font-size: 16px;
+    color: #3c4761;
+    font-family: Titillium Web;
+}
+
+#WE{
+    background-color: #fff;
+    padding-bottom: 120px;
+}
+
+.We-got{
+    padding-top: 120px;
+    font-size: 24px;
+    font-family: Titillium Web;
+    text-transform: uppercase;
+    text-align: center;
+    color:#3c4761;
+}
+
+.interception-2{
+    width: 90px;
+    height: 5px;
+    background-color: #dfe8ed;
+}
+
+.Lorem{
+    font-family: Titillium Web;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 30px;
+    color:#3c4761;
+}
+
+h4 {
+    padding-top: 20px;
+    text-align: center;
+    font-size: 24px;
+    font-family: Titillium Web;
+    text-transform: uppercase;
+    color:#3c4761;
+}
+
+#OUR{
+    background-color: #ffdd99;
+    padding-bottom: 120px;  
+}
+
+.OUR-PORTFOLIO{
+    padding-top: 120px;
+    font-family: Titillium Web;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+    color:#393939;
+    font-weight: bold;
+}
+
+.interception-3{
+    width: 90px;
+    height: 5px;
+    background-color: #e5c37f;
+}
+
+.Neque-porro{
+    font-family: Titillium Web;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 30px;
+    color:#393939;
+}
+
+.batton_1 {
+    background: #ebc985;
+    color: #393939;
+    display: block;
+    width: 95px;
+    padding: 20px 0;
+    margin: 0 auto ;
+    text-decoration: none;
+    text-align: center;
+    border:none;
+    outline:none;
+    margin-top: 30px;
+    border-radius: 3px;
+}    
+
+.container-icon{
+    width: 60%;
+    margin: 0 auto;
+}
+
+.mac-info{
+    padding-top: 20px;
+    text-align: center;
+    font-family: Titillium Web;
+    color: #4e4a42;
+}
+
+.LOAD-MORE-PROJECTS-INFO{
+    padding-top: 80px;
+}
+
+.LOAD-MORE-PROJECTS{
+    background:#17c2a4;
+    color: #ffffff;
+    display: block; 
+    border-radius: 3px;
+    width: 290px;
+    padding: 20px 0;
+    margin: 0 auto;
+    border:none;
+    outline:none;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 0 5px 0 #14a58c;
+    font-family: Titillium Web;
+    font-size: 18px;
+}
+
+#WHAT{
+    background-color: #d74680;
+    padding-bottom: 120px;  
+}
+
+.WHAT{
+    padding-top: 120px;
+    font-size: 40px;
+    font-family: Titillium Web;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    color:#fff;
+}
+
+.interception-5{
+    width: 90px;
+    height: 5px;
+    background-color: #b73c6d;
+}
+
+.Our{
+    padding-top: 20px;
+    font-size: 18px;
+    font-family: Titillium Web;
+    text-transform: uppercase;
+    text-align: center;
+    color:#fff;
+}
+
+.block-1{
+    float: right;
+    padding-right: 40px;
+}
+
+.recommendation{
+    padding-top: 50px;
+    font-family: Titillium Web;
+    font-style: italic;
+    margin-top: 20px;
+    font-size: 18px;
+    color:#fff;
+}
+
+.recommendation-name{
+    font-family: Titillium Web;
+    font-size: 24px;
+    color:#fff;
+    font-weight: bold;
+}
+
+.recommendation-post{
+    font-family: Titillium Web;
+    font-size: 18px;
+    color:#f0ab8f;
+}
+
+#GET{
+    background-color: #3c5499;
+    padding-bottom: 120px; 
+}
+
+.Get-in{
+    text-align: center;
+    padding-top: 120px;
+    padding-bottom: 10px;
+    font-family: Titillium Web;
+    font-size: 40px;
+    color:#fff;
+}
+
+.interception-4{
+    width: 90px;
+    height: 5px;
+    background-color: #273a71;
+}
+
+.Pennsylvania{
+    text-align: center;
+    padding-top: 30px;
+    font-family: Titillium Web;
+    font-size: 18px;
+    color:#fff;
+}
+
+.Name-info{
+    padding-top: 70px;
+}
+
+.Name{
+    height: 45px;
+    width: 79%;
+    border: none;
+    background-color: #273a71;
+    padding-left: 20px;
+    font-size: 14px;
+    font-family: "Lucida Grande";
+    border-radius: 5px;
+}
+
+.Email-info{
+    padding-top: 70px;
+}
+
+.Email{
+    height: 45px;
+    width: 79%;
+    border: none;
+    background-color: #273a71;
+    padding-left: 20px;
+    font-size: 14px;
+    font-family: "Lucida Grande";
+    border-radius: 5px;
+}
+
+.Message-info{
+    padding-top: 50px;
+}
+
+.Message{
+    height: 200px;
+    width: 79%;
+    border: none;
+    background-color: #273a71;
+    padding-bottom: 150px;
+    padding-left: 20px;
+    font-size: 14px;
+    font-family: "Lucida Grande";
+    border-radius: 5px;
+    border: none;
+}
+
+@media (min-width: 768px) {
+    .Message {
+        width: 90%;
+    }
+}
+
+.SEND-MESSAGE-1-info{
+    padding-top: 100px;
+}
+
+.SEND-MESSAGE-1{
+    background:#30bae7;
+    color: #ffffff;
+    display: block; 
+    border-radius: 3px;
+    border:none;
+    outline:none;
+    width: 290px;
+    padding: 20px 0;
+    margin: 0 auto;
+    text-decoration: none;
+    text-align: center;
+    box-shadow: 0 5px 0 #299ec5;
+    font-family: Titillium Web;
+    font-size: 18px;
+    margin-bottom: 100px;
+}
+
+.btn-primary:visited{
+    background-color: #30bae7;
+}
+
+footer{
+    background-color: #344b8e;
+    padding-bottom: 50px; 
+}
+
+.basement{
+    padding-top: 50px;
+}
+
+.basement a{
+    color: #fff;
+    font-size: 24px;
+    font-family: Titillium Web;
+    font-weight: bold;
+    display: block; 
+}
+
+@media (min-width: 320px) {
+    .basement a {
+        text-align: center;
+    }
+}
+
+@media (min-width: 768px) { 
+    .basement a {
+        text-align: center;
+        display: block; 
+    }
+}
